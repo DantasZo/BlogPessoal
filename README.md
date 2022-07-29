@@ -1,3 +1,7 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/-Atividade%20Concluido%20com%20Exito-green"/>
+
 </p>
   A proposta dessa atividade foi utilizar o SpringTool de maneira que ele conecta-se com o MYSQL(para realizar o CRUD),
   criando um blog para que eu possa fazer postagens :)
