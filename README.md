@@ -1,10 +1,9 @@
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Atividade%20Concluido%20com%20Exito-green"/>
+<img src="https://img.shields.io/badge/-Atividade%20ainda%20em%20progresso!-yellow"/>
 
 </p>
-  A proposta dessa atividade foi utilizar o SpringTool de maneira que ele conecta-se com o MYSQL(para realizar o CRUD),
-  criando um blog para que eu possa fazer postagens :)
+ A proposta desta atividade é trabalhar no frontend do meu blogpessoal, utilizando javascript, html, css e react.
 </p>
 
   Repositório dedicado ao Exercicio da Generation Brasil, todos conteudo e testes a qual eu realizar enquanto eu estiver trabalhando nesta ativade será atualizado e datado aqui, sinta-se a vontade para explorar e me contatar caso tenha duvidas ou encontre algum erro.
@@ -12,4 +11,5 @@
   Meu linkedin: <a href="https://www.linkedin.com/in/lucas-dantas-6837b9227/"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Lucas Dantas</button></a>
 
 
-![08086ebd91f32979a66ce440271e0d9b](https://user-images.githubusercontent.com/105881498/181810049-c5b64cf1-6a87-4c03-befc-ff820815964a.gif)
+
+![Minions 16](https://user-images.githubusercontent.com/105881498/186724150-19e4aad3-0a90-4767-8d58-1a58c2e31666.gif)
